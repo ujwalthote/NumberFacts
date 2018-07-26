@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberFacts</string>
+    <string name="enter_number">Enter number</string>
+    <string name="know_the_fact">Know the fact</string>
+    <string name="dummmy">Loading...</string>
+    <string name="maths_fact">Maths fact</string>
+    <string name="trivia">Trivia</string>
+    <string name="date_fact">Date Fact</string>
+</resources>
